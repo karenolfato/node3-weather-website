@@ -1,5 +1,3 @@
-console.log("Client side javascript file is loaded");
-
 const weatherForm = document.querySelector("form"); //------------- "form" is from the html, what is customized, could also be class
 const search = document.querySelector("input"); //----------------- same idea as form
 const messageOne = document.querySelector("#message-1"); //---------- same idea as form and input, but in particular p, use id starting with #
